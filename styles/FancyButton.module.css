@@ -1,0 +1,8 @@
+.fancyButton {
+  border: 1px solid red;
+  padding: 10px 20px;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  background: #333;
+}
